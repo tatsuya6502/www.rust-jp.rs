@@ -22,11 +22,14 @@ Rustに関する日本語版のドキュメントはこちらにあります。
 Rustユーザーが（主に）日本語で情報共有することを目的としたオンライン・コミュニティがあります。
 日本で開催されるイベントの情報などもアナウンスされます。
 
-リアルタイムコミュニケーションツールとして[Slack][slack]を活用しています。
+リアルタイムコミュニケーションツールとして[Zulip][zulip]チャットを活用しています。
 日本語が不得意でも問題ありません。どなたでも参加できます。
 
-- [rust-jp Slackチーム][rust-jp-slack] （入会は[こちら][rust-jp-slack-reg]から）
+- [https://rust-lang-jp.zulipchat.com](https://rust-lang-jp.zulipchat.com)
 
-[rust-jp-slack]: https://rust-jp.slack.com
-[rust-jp-slack-reg]: http://rust-jp.herokuapp.com
-[slack]: https://slack.com/intl/ja-jp
+メッセージを読むだけならユーザー登録は不要です。
+メッセージを投稿したり、メッセージの未読・既読を管理したりするには、
+[ここから][rust-jp-zulip-reg] ユーザー登録してください。
+
+[rust-jp-zulip-reg]: https://rust-lang-jp.zulipchat.com/register/
+[zulip]: https://zulip.com/
