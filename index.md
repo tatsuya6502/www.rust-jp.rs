@@ -24,7 +24,7 @@ Rustに関する日本語版のドキュメントはこちらにあります。
 Rustの標準ライブラリーや外部クレートの使い方を調べたいときは、DeepWikiが便利です。
 生成AIによるWiki記事は英語ですが、AIチャットボットに日本語で質問すると日本語で回答してくれます。
 
-- 例：Rust言語と標準ライブラリーについて: https://deepwiki.com/rust-lang/rust
+- 例：Rust言語と標準ライブラリーについて: <https://deepwiki.com/rust-lang/rust>
 
 GitHubのリポジトリーURLの`github.com`を`deepwiki.com`に置き換えると、DeepWiki上でそのリポジトリーのドキュメントを閲覧できます。
 
