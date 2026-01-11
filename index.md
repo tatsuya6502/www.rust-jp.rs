@@ -28,7 +28,7 @@ Rustの標準ライブラリーや外部クレートの使い方を調べたい�
 
 GitHubのリポジトリーURLの`github.com`を`deepwiki.com`に置き換えると、DeepWiki上でそのリポジトリーのドキュメントを閲覧できます。
 
-また、トップページ [https://deepwiki.com](https://deepwiki.com) の検索ボックスにキーワードを入力して検索することもできます。
+また、トップページ <https://deepwiki.com> の検索ボックスにキーワードを入力して検索することもできます。
 
 
 ### 日本語コミュニティ
