@@ -21,12 +21,12 @@ Rustに関する日本語版のドキュメントはこちらにあります。
 
 #### DeepWiki
 
-Rustの標準ライブラリーや外部クレートの使い方を調べたいときは、DeepWikiが便利です。
+Rustの標準ライブラリや外部クレートの使い方を調べたいときは、DeepWikiが便利です。
 生成AIによるWiki記事は英語ですが、AIチャットボットに日本語で質問すると日本語で回答してくれます。
 
-- 例：Rust言語と標準ライブラリーについて: <https://deepwiki.com/rust-lang/rust>
+- 例：Rust言語と標準ライブラリについて: https://deepwiki.com/rust-lang/rust
 
-GitHubのリポジトリーURLの`github.com`を`deepwiki.com`に置き換えると、DeepWiki上でそのリポジトリーのドキュメントを閲覧できます。
+GitHubのリポジトリURLの`github.com`を`deepwiki.com`に置き換えると、DeepWiki上でそのリポジトリのドキュメントを閲覧できます。
 
 また、トップページ <https://deepwiki.com> の検索ボックスにキーワードを入力して検索することもできます。
 
