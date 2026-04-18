@@ -19,7 +19,7 @@ Rustに関する日本語版のドキュメントはこちらにあります。
 - **rustrefjp**（非公式）
     - <https://ref.rustlang.jp>
     - Rust標準ライブラリおよび関連仕様について、公式ドキュメントの単純な翻訳ではなく、各ライターの理解と解釈に基づいて日本語で解説する非公式プロジェクト
-    - GitHubリポジトリ: <https://github.com/rust-Developers-JP/rustrefjp>
+    - GitHubリポジトリ: <https://github.com/Rust-Developers-JP/rustrefjp>
 
 #### DeepWiki
 
