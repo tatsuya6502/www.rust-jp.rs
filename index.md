@@ -2,10 +2,10 @@
 title: "Home"
 ---
 
-## Rustの日本語情報
+## Rust（プログラミング言語）の日本語情報
 
 本サイトでは [Rust][rust-lang] を使うにあたって役立つ情報を日本語で提供しています。
-Rustは速度、安全性、平行性の3つのゴールにフォーカスしたシステムプログラミング言語です。
+Rustは速度、安全性、並行性の3つのゴールにフォーカスしたプログラミング言語です。
 
 [rust-lang]: https://www.rust-lang.org/ja-JP/
 
@@ -13,11 +13,13 @@ Rustは速度、安全性、平行性の3つのゴールにフォーカスした
 
 Rustに関する日本語版のドキュメントはこちらにあります。
 
-- <https://doc.rust-jp.rs> （非公式）
-    - The Rust Programming Language等の公式ドキュメントの日本語訳
-- <https://rsdocsjp.org/> （非公式）
+- **doc.rust-jp**（非公式）
+    - <https://doc.rust-jp.rs>
+    - The Rust Programming Language等のドキュメントの非公式な日本語訳
+- **rustrefjp**（非公式）
+    - <https://ref.rustlang.jp>
     - Rust標準ライブラリおよび関連仕様について、公式ドキュメントの単純な翻訳ではなく、各ライターの理解と解釈に基づいて日本語で解説する非公式プロジェクト
-    - GitHubリポジトリ: <https://github.com/Rust-Developers-JP/rsdocsjp>
+    - GitHubリポジトリ: <https://github.com/Rust-Developers-JP/rustrefjp>
 
 #### DeepWiki
 
